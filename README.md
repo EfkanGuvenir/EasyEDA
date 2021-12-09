@@ -1,0 +1,2 @@
+# EasyEDA
+Devreler Ve Şemalar
